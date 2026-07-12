@@ -1,5 +1,5 @@
-#### The right question yields the best data. ####
-# Hola, soy Oscar Araya Díaz
+# The right question yields the best data. #
+## Hola, soy Oscar Araya Díaz
 
 **Analista de Datos** · Santiago, Chile 🇨🇱
 
