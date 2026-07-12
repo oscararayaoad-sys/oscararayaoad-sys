@@ -1,10 +1,9 @@
-## Del dato a la pregunta correcta. ##
+#### The right question yields the best data. ####
 # Hola, soy Oscar Araya Díaz
 
 **Analista de Datos** · Santiago, Chile 🇨🇱
 
-Convierto datos en decisiones de negocio. En transición hacia el análisis de datos, con base sólida en Python, SQL y Power BI, enfocado en problemas reales del contexto chileno.
-
+Hago las preguntas correctas para obtener los mejores hallazgos. Trabajo datos con proyectos de punta a punta: desde la extracción y limpieza de datos reales hasta el análisis, la visualización y la automatización. Certificado en Google Advanced Data Analytics y Google Data Analytics.
 ---
 
 ### Stack
