@@ -60,4 +60,4 @@ Procesé y analicé un volumen de **1.1 millones** de órdenes de compra públic
 
 ---
 
-*Del dato a la pregunta correcta.*
+*The right question yields the best data.*
