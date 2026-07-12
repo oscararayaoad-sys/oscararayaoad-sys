@@ -24,21 +24,21 @@ Hago las preguntas correctas para obtener los mejores hallazgos. Trabajo datos c
 
 **[Análisis del Gasto Público en Mercado Público de Chile](https://github.com/oscararayaoad-sys/mercado-publico-eda)**
 
-Procesé y analicé un volumen de **1.1 millones** de órdenes de compra pública mediante **Python (Pandas, Seaborn)** para descubrir patrones de gasto y oportunidades de negocio en el Estado chileno. Resolví proactivamente complejos problemas de calidad de datos, incluyendo la normalización Unicode de entidades geográficas y auditorías de reconciliación monetaria (Neto vs. Bruto). El análisis derivó en un modelo conceptual de competencia que identificó **mercados cautivos (>90% de monopolio)** frente a nichos viables con alta demanda y baja concentración, **transformando datos crudos en insights accionables** para la toma de decisiones comerciales.
+Procesé y analicé un volumen de *1.1 millones* de órdenes de compra pública mediante *Python (Pandas, Seaborn)* para descubrir patrones de gasto y oportunidades de negocio en el Estado chileno. Resolví proactivamente complejos problemas de calidad de datos, incluyendo la normalización Unicode de entidades geográficas y auditorías de reconciliación monetaria (Neto vs. Bruto). El análisis derivó en un modelo conceptual de competencia que identificó *mercados cautivos (>90% de monopolio)* frente a nichos viables con alta demanda y baja concentración, *transformando datos crudos en insights accionables* para la toma de decisiones comerciales.
 
 
 `Python` · `pandas` · `EDA` · `data storytelling`
 
 **[Análisis del Gasto Público en Mercado Público de Chile](https://github.com/oscararayaoad-sys/mercado-publico-eda)**
 
-Procesé una base de datos de **1.23 millones** de préstamos históricos utilizando **Python** para la ingeniería de datos y **PostgreSQL** para la analítica avanzada, orientando el proyecto hacia la mitigación del riesgo en el sector Fintech. Resolví proactivamente problemas complejos de calidad de datos, como el tratamiento estratégico de nulos basado en el dominio financiero y el control de sesgos temporales en cohortes. A través de este análisis, desmitifiqué la paradoja del riesgo individual frente al agregado, demostrando cuantitativamente que tres categorías de riesgo medio concentran el 73.8%* de la mora total debido a su alto volumen. **Esto permitió identificar los bolsones de riesgo extremo más críticos, transformando métricas técnicas en insights comerciales estratégicos** para optimizar políticas de crédito y pricing diferenciado.
+Procesé una base de datos de *1.23 millones* de préstamos históricos utilizando *Python** para la ingeniería de datos y **PostgreSQL* para la analítica avanzada, orientando el proyecto hacia la mitigación del riesgo en el sector Fintech. Resolví proactivamente problemas complejos de calidad de datos, como el tratamiento estratégico de nulos basado en el dominio financiero y el control de sesgos temporales en cohortes. A través de este análisis, desmitifiqué la paradoja del riesgo individual frente al agregado, demostrando cuantitativamente que tres categorías de riesgo medio concentran el *73.8%* de la mora total debido a su alto volumen. *Esto permitió identificar los bolsones de riesgo extremo más críticos, transformando métricas técnicas en insights comerciales estratégicos* para optimizar políticas de crédito y pricing diferenciado.
 
 
 `Python` · `pandas` · `EDA` · `data storytelling`
 
 **[Análisis del Gasto Público en Mercado Público de Chile](https://github.com/oscararayaoad-sys/mercado-publico-eda)**
 
-Procesé y analicé un volumen de **1.1 millones** de órdenes de compra pública mediante **Python (Pandas, Seaborn)** para descubrir patrones de gasto y oportunidades de negocio en el Estado chileno. Resolví proactivamente complejos problemas de calidad de datos, incluyendo la normalización Unicode de entidades geográficas y auditorías de reconciliación monetaria (Neto vs. Bruto). El análisis derivó en un modelo conceptual de competencia que identificó **mercados cautivos (>90% de monopolio)** frente a nichos viables con alta demanda y baja concentración, **transformando datos crudos en insights accionables** para la toma de decisiones comerciales.
+Procesé y analicé un volumen de *1.1 millones* de órdenes de compra pública mediante *Python (Pandas, Seaborn)* para descubrir patrones de gasto y oportunidades de negocio en el Estado chileno. Resolví proactivamente complejos problemas de calidad de datos, incluyendo la normalización Unicode de entidades geográficas y auditorías de reconciliación monetaria (Neto vs. Bruto). El análisis derivó en un modelo conceptual de competencia que identificó *mercados cautivos (>90% de monopolio)* frente a nichos viables con alta demanda y baja concentración, *transformando datos crudos en insights accionables* para la toma de decisiones comerciales.
 
 
 `Python` · `pandas` · `EDA` · `data storytelling`
