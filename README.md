@@ -38,7 +38,7 @@ Procesé una base de datos de *1.23 millones* de préstamos históricos utilizan
 
 **[Pipeline ETL automatizado de inflación con datos del Banco Central de Chile](https://github.com/oscararayaoad-sys/bcch-inflacion-pipeline)**
 
-Procesé y analicé un volumen de *1.1 millones* de órdenes de compra pública mediante *Python (Pandas, Seaborn)* para descubrir patrones de gasto y oportunidades de negocio en el Estado chileno. Resolví proactivamente complejos problemas de calidad de datos, incluyendo la normalización Unicode de entidades geográficas y auditorías de reconciliación monetaria (Neto vs. Bruto). El análisis derivó en un modelo conceptual de competencia que identificó *mercados cautivos (>90% de monopolio)* frente a nichos viables con alta demanda y baja concentración, *transformando datos crudos en insights accionables* para la toma de decisiones comerciales.
+Procesé y automaticé un pipeline de datos de extremo a extremo para la extracción periódica de series de la Unidad de Fomento (UF) e Índice de Precios al Consumidor (IPC) desde la API del Banco Central de Chile. Diseñé e implementé la arquitectura de ingesta, procesamiento y almacenamiento de los datos en una base de datos relacional, orquestando el flujo completo para ejecutarse de manera mensual en sincronía con el calendario de publicaciones del BCCh. Finalmente, construí un dashboard interactivo en Power BI que consolidó y visualizó estas variables macroeconómicas críticas, transformando la captura automatizada de datos en un activo analítico de consulta inmediata para la toma de decisiones financieras.
 
 
 `Python` · `pandas` · `EDA` · `data storytelling`
