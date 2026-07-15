@@ -60,4 +60,4 @@ Procesé y automaticé un pipeline de datos de extremo a extremo para la extracc
 
 ---
 
-*The right question yields the best data.*
+*The right question yields the best insight.*
