@@ -34,14 +34,14 @@ Procesé y analicé un volumen de *1.1 millones* de órdenes de compra pública 
 Procesé una base de datos de *1.23 millones* de préstamos históricos utilizando *Python** para la ingeniería de datos y **PostgreSQL* para la analítica avanzada, orientando el proyecto hacia la mitigación del riesgo en el sector Fintech. Resolví proactivamente problemas complejos de calidad de datos, como el tratamiento estratégico de nulos basado en el dominio financiero y el control de sesgos temporales en cohortes. A través de este análisis, desmitifiqué la paradoja del riesgo individual frente al agregado, demostrando cuantitativamente que tres categorías de riesgo medio concentran el *73.8%* de la mora total debido a su alto volumen. *Esto permitió identificar los bolsones de riesgo extremo más críticos, transformando métricas técnicas en insights comerciales estratégicos* para optimizar políticas de crédito y pricing diferenciado.
 
 
-`Python` · `pandas` · `EDA` · `data storytelling`
+`Python` · `PostgreSQL` · `matplotlib` · `seaborn`
 
 **[Pipeline ETL automatizado de inflación con datos del Banco Central de Chile](https://github.com/oscararayaoad-sys/bcch-inflacion-pipeline)**
 
 Procesé y automaticé un pipeline de datos de extremo a extremo para la extracción periódica de series de la Unidad de Fomento (UF) e Índice de Precios al Consumidor (IPC) desde la API del Banco Central de Chile. Diseñé e implementé la arquitectura de ingesta, procesamiento y almacenamiento de los datos en una base de datos relacional, orquestando el flujo completo para ejecutarse de manera mensual en sincronía con el calendario de publicaciones del BCCh. Finalmente, construí un dashboard interactivo en Power BI que consolidó y visualizó estas variables macroeconómicas críticas, transformando la captura automatizada de datos en un activo analítico de consulta inmediata para la toma de decisiones financieras.
 
 
-`Python` · `pandas` · `EDA` · `data storytelling`
+`Python` · `pandas` · `Power BI` · `PostgreSQL`
 
 ---
 
