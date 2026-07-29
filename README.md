@@ -25,13 +25,17 @@ I ask the right questions to uncover the best insights. I work with data on end-
 
 ### Featured Projects ###
 
-# [Coffee Shop Dashboard & Analysis - Python & Power BI](https://github.com/oscararayaoad-sys/mercado-publico-eda)
-
-# 
+# [Coffee Shop Dashboard & Analysis - Python & Power BI](https://github.com/oscararayaoad-sys/dashboard-and-analysis-coffeeshop))
 
 This project delivers a **Python and Power BI** data analysis to optimize a coffee shop's business strategy and profitability. It features **EDA, BCG Matrix segmentation, and co-occurrence analysis** to evaluate product performance, demand patterns, and cross-selling opportunities. The insights are visualized through an **interactive Power BI dashboard** tracking key operational and sales KPIs.
 
 `Python` · `pandas` · `EDA` · `data storytelling` ·  `power-bi` · `business-analytics` · `data storytelling` · `arket-basket-analysis` 
+
+# [Public Spending Analysis in Chile's Mercado Público - Python & Power BI](https://github.com/oscararayaoad-sys/mercado-publico-eda)
+
+This project conducts an **EDA on 1.1M Chilean Mercado Público purchase orders** using **Python and Power BI** to analyze state spending and supplier opportunities. It reveals **extreme concentration** (Top 10 agencies absorb 84.1% of spending, Metropolitan Region captures 96.7%). Using an **Opportunity Matrix**, it separates false niches (captive oligopolies) from dynamic, open market opportunities like IT and logistics.
+
+`Python` · `pandas` · `EDA` · `Power-BI` · `public-procurement` · `spend-analysis` · `pareto-analysis` · `market-opportunity`
 
 **[Automated Inflation ETL Pipeline — Central Bank of Chile API](https://github.com/oscararayaoad-sys/bcch-inflacion-pipeline)**
 
