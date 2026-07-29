@@ -25,19 +25,13 @@ I ask the right questions to uncover the best insights. I work with data on end-
 
 ### Featured Projects ###
 
-**[PPublic Spending Analysis in Chile's Mercado Público](https://github.com/oscararayaoad-sys/mercado-publico-eda)**
+# [Coffee Shop Dashboard & Analysis - Python & Power BI] #(https://github.com/oscararayaoad-sys/mercado-publico-eda)**
 
-# Coffee Shop Dashboard & Analysis
+# 
 
 This project delivers a **Python and Power BI** data analysis to optimize a coffee shop's business strategy and profitability. It features **EDA, BCG Matrix segmentation, and co-occurrence analysis** to evaluate product performance, demand patterns, and cross-selling opportunities. The insights are visualized through an **interactive Power BI dashboard** tracking key operational and sales KPIs.
 
 `Python` · `pandas` · `EDA` · `data storytelling` ·  `power-bi` · `business-analytics` · `data storytelling` · `arket-basket-analysis` 
-
-**[Credit Default & Financial Loss Risk Analysis on 1.23M P2P Loans — PostgreSQL + Python](https://github.com/oscararayaoad-sys/lending_club_sql_risk)**
-
-Processed a historical credit database of **1.23 million** loans using *Python* for data engineering and *PostgreSQL* for advanced analytics, focusing the project on risk mitigation within the Fintech sector. Proactively solved complex data quality issues, such as domain-specific strategic null-handling and controlling temporal bias in cohorts. Through this analysis, I demystified the paradox of individual versus aggregate risk, quantitatively proving that three medium-risk categories concentrate *73.8%* of total defaults due to their high volume. *This enabled the identification of critical extreme risk pockets, converting technical metrics into strategic commercial insights* to optimize credit policies and differential pricing.
-
-`Python` · `PostgreSQL` · `matplotlib` · `seaborn`
 
 **[Automated Inflation ETL Pipeline — Central Bank of Chile API](https://github.com/oscararayaoad-sys/bcch-inflacion-pipeline)**
 
