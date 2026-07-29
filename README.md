@@ -25,7 +25,7 @@ I ask the right questions to uncover the best insights. I work with data on end-
 
 ### Featured Projects ###
 
-# [Coffee Shop Dashboard & Analysis - Python & Power BI](https://github.com/oscararayaoad-sys/dashboard-and-analysis-coffeeshop))
+# [Coffee Shop Dashboard & Analysis - Python & Power BI](https://github.com/oscararayaoad-sys/dashboard-and-analysis-coffeeshop)
 
 This project delivers a **Python and Power BI** data analysis to optimize a coffee shop's business strategy and profitability. It features **EDA, BCG Matrix segmentation, and co-occurrence analysis** to evaluate product performance, demand patterns, and cross-selling opportunities. The insights are visualized through an **interactive Power BI dashboard** tracking key operational and sales KPIs.
 
