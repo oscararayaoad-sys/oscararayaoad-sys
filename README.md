@@ -49,7 +49,7 @@ An **automated end-to-end ETL pipeline** built with **Python and PostgreSQL** th
 
 - Google Advanced Data Analytics Professional Certificate
 - Google Data Analytics Professional Certificate
-- Associate Degree in Data Analytics — AIEP *(In Progress, Graduation: 08-2026)*
+- Associate Degree in Data Analytics — AIEP *(In Progress, 08-2026)*
 
 ---
 
