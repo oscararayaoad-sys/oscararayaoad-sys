@@ -25,7 +25,7 @@ I ask the right questions to uncover the best insights. I work with data on end-
 
 ### Featured Projects ###
 
-**[Public Procurement Spend Analysis — Mercado Público de Chile](https://github.com/oscararayaoad-sys/mercado-publico-eda)**
+**[PPublic Spending Analysis in Chile's Mercado Público](https://github.com/oscararayaoad-sys/mercado-publico-eda)**
 
 # Coffee Shop Dashboard & Analysis
 
