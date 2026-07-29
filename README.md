@@ -25,7 +25,7 @@ I ask the right questions to uncover the best insights. I work with data on end-
 
 ### Featured Projects ###
 
-# [Coffee Shop Dashboard & Analysis - Python & Power BI] #(https://github.com/oscararayaoad-sys/mercado-publico-eda)**
+# [Coffee Shop Dashboard & Analysis - Python & Power BI](https://github.com/oscararayaoad-sys/mercado-publico-eda)**
 
 # 
 
