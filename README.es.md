@@ -49,7 +49,7 @@ Análisis de datos con **Python y Power BI** orientado a optimizar la estrategia
 
 - Google Advanced Data Analytics Professional Certificate
 - Google Data Analytics Professional Certificate
-- Técnico en Análisis de Datos — AIEP *(En curso, titulación: 08-2026)*
+- Técnico en Análisis de Datos — AIEP *(En curso, 08-2026)*
 
 ---
 
