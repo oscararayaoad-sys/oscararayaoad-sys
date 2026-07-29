@@ -1,14 +1,15 @@
-*Read this in other languages: [English](README.md)*
+*Leer esto en otros idiomas: [English](README.md)*
 
-# The right question yields the best insight. #
-## Hola, soy Oscar Araya Díaz
+# La pregunta correcta entrega el mejor hallazgo. #
+## Hola, soy Oscar Araya Díaz ##
 
 **Analista de Datos** · Santiago, Chile 🇨🇱
 
-Hago las preguntas correctas para obtener los mejores hallazgos. Trabajo datos con proyectos de punta a punta: desde la extracción y limpieza de datos reales hasta el análisis, la visualización y la automatización. Certificado en Google Advanced Data Analytics y Google Data Analytics.
+Formulo las preguntas correctas para descubrir los mejores hallazgos. Trabajo con datos en proyectos de extremo a extremo: desde la extracción y limpieza de datos del mundo real hasta el análisis, visualización y automatización. Certificado en Google Advanced Data Analytics y Google Data Analytics.
+
 ---
 
-### Stack
+### Stack ###
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![pandas](https://img.shields.io/badge/pandas-150458?style=flat&logo=pandas&logoColor=white)
@@ -16,50 +17,47 @@ Hago las preguntas correctas para obtener los mejores hallazgos. Trabajo datos c
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black)
 
-- **Análisis y limpieza de datos:** Python (pandas, NumPy), SQL
+- **Análisis y Limpieza de Datos:** Python (pandas, NumPy), SQL
 - **Visualización:** Power BI, Matplotlib, Seaborn
-- **Entorno:** Jupyter Notebook, VS Code, Git
+- **Entorno de Trabajo:** Jupyter Notebook, VS Code, Git
 
 ---
 
-### Proyectos destacados
+### Proyectos Destacados ###
 
-**[Análisis del Gasto Público en Mercado Público de Chile](https://github.com/oscararayaoad-sys/mercado-publico-eda)**
+# [Dashboard y Análisis de Cafetería - Python & Power BI](https://github.com/oscararayaoad-sys/dashboard-and-analysis-coffeeshop)
 
-Procesé y analicé un volumen de *1.1 millones* de órdenes de compra pública mediante *Python (Pandas, Seaborn)* para descubrir patrones de gasto y oportunidades de negocio en el Estado chileno. Resolví proactivamente complejos problemas de calidad de datos, incluyendo la normalización Unicode de entidades geográficas y auditorías de reconciliación monetaria (Neto vs. Bruto). El análisis derivó en un modelo conceptual de competencia que identificó *mercados cautivos (>90% de monopolio)* frente a nichos viables con alta demanda y baja concentración, *transformando datos crudos en insights accionables* para la toma de decisiones comerciales.
+Análisis de datos con **Python y Power BI** orientado a optimizar la estrategia comercial y rentabilidad de una cafetería. Incluye **EDA, segmentación mediante Matriz BCG y análisis de coocurrencia** para evaluar el rendimiento de productos, patrones de demanda y oportunidades de venta cruzada. Los hallazgos se visualizan en un **dashboard interactivo en Power BI** que monitorea KPIs clave de operación y ventas.
 
+`python` · `pandas` · `eda` · `data storytelling` ·  `power-bi` · `business-analytics` · `market-basket-analysis` 
 
-`Python` · `pandas` · `EDA` · `data storytelling`
+# [Análisis de Gasto Público en Mercado Público Chile - Python & Power BI](https://github.com/oscararayaoad-sys/mercado-publico-eda)
 
-**[Análisis de riesgo de mora sobre 1.23M préstamos P2P — PostgreSQL + Python](https://github.com/oscararayaoad-sys/lending_club_sql_risk)**
+**EDA sobre 1,1M de órdenes de compra** de Mercado Público Chile usando **Python y Power BI** para analizar el gasto estatal y las oportunidades para proveedores. Revela una **extrema concentración** (el Top 10 de instituciones absorbe el 84,1% del gasto; la Región Metropolitana captura el 96,7%). Mediante una **Matriz de Oportunidad**, separa falsos nichos (oligopolios cautivos) de mercados dinámicos y abiertos como TI y logística.
 
-Procesé una base de datos de *1.23 millones* de préstamos históricos utilizando *Python* para la ingeniería de datos y *PostgreSQL* para la analítica avanzada, orientando el proyecto hacia la mitigación del riesgo en el sector Fintech. Resolví proactivamente problemas complejos de calidad de datos, como el tratamiento estratégico de nulos basado en el dominio financiero y el control de sesgos temporales en cohortes. A través de este análisis, desmitifiqué la paradoja del riesgo individual frente al agregado, demostrando cuantitativamente que tres categorías de riesgo medio concentran el *73.8%* de la mora total debido a su alto volumen. *Esto permitió identificar los bolsones de riesgo extremo más críticos, transformando métricas técnicas en insights comerciales estratégicos* para optimizar políticas de crédito y pricing diferenciado.
+`python` · `pandas` · `eda` · `power-bi` · `public-procurement` · `spend-analysis` · `pareto-analysis` · `market-opportunity`
 
+# [Pipeline ETL Automatizado de Inflación — API Banco Central de Chile](https://github.com/oscararayaoad-sys/bcch-inflacion-pipeline)
 
-`Python` · `PostgreSQL` · `matplotlib` · `seaborn`
+**Pipeline ETL automatizado de extremo a extremo** construido con **Python y PostgreSQL** que extrae series de UF e IPC desde la API del Banco Central de Chile, modela tendencias de inflación (2015–2025) y visualiza el impacto en el poder adquisitivo mediante un **dashboard interactivo en Power BI**.
 
-**[Pipeline ETL automatizado de inflación con datos del Banco Central de Chile](https://github.com/oscararayaoad-sys/bcch-inflacion-pipeline)**
-
-Procesé y automaticé un pipeline de datos de extremo a extremo para la extracción periódica de series de la Unidad de Fomento (UF) e Índice de Precios al Consumidor (IPC) desde la API del Banco Central de Chile. Diseñé e implementé la arquitectura de ingesta, procesamiento y almacenamiento de los datos en una base de datos relacional, orquestando el flujo completo para ejecutarse de manera mensual en sincronía con el calendario de publicaciones del BCCh. Finalmente, construí un dashboard interactivo en Power BI que consolidó y visualizó estas variables macroeconómicas críticas, transformando la captura automatizada de datos en un activo analítico de consulta inmediata para la toma de decisiones financieras.
-
-
-`Python` · `pandas` · `Power BI` · `PostgreSQL`
+`python` · `pandas` · `postgresql` · `power-bi` · `etl-pipeline` · `data-engineering` · `financial-data` · `api-integration`
 
 ---
 
-### 🎓 Formación
+### 🎓 Educación y Certificaciones ###
 
-- Google Advanced Data Analytics
-- Google Data Analytics
-- Análisis de Datos — AIEP *(en curso, 08-2026)*
+- Google Advanced Data Analytics Professional Certificate
+- Google Data Analytics Professional Certificate
+- Técnico en Análisis de Datos — AIEP *(En curso, titulación: 08-2026)*
 
 ---
 
-### 📫 Contacto
+### 📫 Contacto ###
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/oscar-araya-diaz-7a418a170)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:oscar.araya.oad@gmail.com)
 
 ---
 
-*The right question yields the best insight.*
+*La pregunta correcta entrega el mejor hallazgo.*
