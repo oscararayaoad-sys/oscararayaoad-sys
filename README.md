@@ -27,9 +27,11 @@ I ask the right questions to uncover the best insights. I work with data on end-
 
 **[Public Procurement Spend Analysis — Mercado Público de Chile](https://github.com/oscararayaoad-sys/mercado-publico-eda)**
 
-Processed and analyzed a volume of **1.1 million** public purchase orders using *Python (Pandas, Seaborn)* to uncover spending patterns and business opportunities within the Chilean State. Proactively resolved complex data quality challenges, including Unicode normalization of geographical entities and financial reconciliation audits (Net vs. Gross). The analysis led to a conceptual competition model that identified *captive markets (>90% monopoly)* versus highly viable niches with high demand and low concentration, *transforming raw data into actionable business insights* for commercial decision-making.
+# Coffee Shop Dashboard & Analysis
 
-`Python` · `pandas` · `EDA` · `data storytelling`
+This project delivers a **Python and Power BI** data analysis to optimize a coffee shop's business strategy and profitability. It features **EDA, BCG Matrix segmentation, and co-occurrence analysis** to evaluate product performance, demand patterns, and cross-selling opportunities. The insights are visualized through an **interactive Power BI dashboard** tracking key operational and sales KPIs.
+
+`Python` · `pandas` · `EDA` · `data storytelling` ·  `power-bi` · `business-analytics` · `data storytelling` · `arket-basket-analysis` 
 
 **[Credit Default & Financial Loss Risk Analysis on 1.23M P2P Loans — PostgreSQL + Python](https://github.com/oscararayaoad-sys/lending_club_sql_risk)**
 
